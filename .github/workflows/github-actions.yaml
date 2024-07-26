@@ -23,7 +23,7 @@ jobs:
           pip install html2text
       - name: Create empty markdown file
         run: |
-            echo "This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice\n" > 'profile/README.md'
+            echo "This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice." > 'profile/README.md'
       - name: Generate Markdown
         run: html2text --ignore-images --single-line-break --wrap-list-items -d index.html >> 'profile/README.md'
       - name: verify changes
