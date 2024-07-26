@@ -29,7 +29,7 @@ jobs:
       - name: verify changes
         id: verify_changes
         run: |
-          git diff --quiet README.md || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet profile/README.md || echo "changed=true" >> $GITHUB_OUTPUT
       - name: Commit changes
         if: steps.verify_changes.outputs.changed == 'true'
         run: |
