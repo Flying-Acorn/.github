@@ -1,4 +1,4 @@
-This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice\n
+This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice.
 # Flying Acorn
 
 Crafting Extraordinary Gaming Experiences
