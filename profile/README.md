@@ -1,3 +1,4 @@
+This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice\n
 # Flying Acorn
 
 Crafting Extraordinary Gaming Experiences
