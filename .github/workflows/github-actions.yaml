@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "amir@flyingacorn.studio"
           git config --local user.name "GitHub Actions"
-          git add README.md
+          git add profile/README.md
           git commit -m "Update README.md"
       - name: Push changes
         if: steps.verify_changes.outputs.changed == 'true'
