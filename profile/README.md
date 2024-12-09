@@ -42,22 +42,29 @@ creating addictive and scalable gaming experiences.
   - ### Kalamatic
 2M+ downloads, 65K+ daily active users
 
-[AppStore](https://apps.apple.com/us/app/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-kalamatic/id1476429715)
+[
+](https://apps.apple.com/us/app/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-kalamatic/id1476429715)
+
+  - ### Persian 2248
+D1 40%, D7 20%, 1.5h engagement/day
+
+[ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)
 
   - ### Couples Yoga
 20M+ downloads, #1 on App Store and Google Play
 
-[AppStore](https://apps.apple.com/us/app/couples-yoga/id1563288539)
+[ ](https://apps.apple.com/us/app/couples-yoga/id1563288539) [
+](https://play.google.com/store/apps/details?id=com.tippytap.yoga)
 
   - ### Beauty Salon
 $0.29 CPI, 22% D1 retention
 
-[AppStore](https://apps.apple.com/us/app/beauty-salon-3d/id1545813093?l=ru)
+[ ](https://apps.apple.com/us/app/beauty-salon-3d/id1545813093)
 
   - ### Doctor Tycoon
 $0.19 CPI, 37% D1 retention
 
-[AppStore](https://apps.apple.com/us/app/doctor-tycoon/id1555050989)
+[ ](https://apps.apple.com/us/app/doctor-tycoon/id1555050989)
 
 ### Many More
 
@@ -107,9 +114,11 @@ Ready to bring your game idea to life? We're excited to hear from you!
 [Get in Touch](mailto:hello@flyingacorn.studio) [Schedule a
 Meeting](https://calendly.com/alisharpasand)
 
+[ ](https://www.linkedin.com/company/flying-acorn) [
+](https://github.com/Flying-Acorn/) [
+](https://play.google.com/store/apps/developer?id=Flying+Acorn)
+
 Made with ❤️ by Flying Acorn
 
 Espoo, Finland
-
-[ [
 
