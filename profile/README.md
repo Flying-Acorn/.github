@@ -48,6 +48,8 @@ creating addictive and scalable gaming experiences.
   - ### Persian 2248
 D1 40%, D7 20%, 1.5h engagement/day
 
+[
+](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)
 
   - ### Couples Yoga
@@ -116,6 +118,7 @@ Meeting](https://calendly.com/alisharpasand)
 
 [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://github.com/Flying-Acorn/) [
+](https://apps.apple.com/us/developer/flying-acorn/id1758967698) [
 ](https://play.google.com/store/apps/developer?id=Flying+Acorn)
 
 Made with ❤️ by Flying Acorn
