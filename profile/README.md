@@ -51,6 +51,7 @@ D1 40%, D7 20%, 1.5h engagement/day
 [
 ](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)
+[ ](https://cafebazaar.ir/app/com.FlyingAcorn.NumberChain)
 
   - ### Couples Yoga
 20M+ downloads, #1 on App Store and Google Play
