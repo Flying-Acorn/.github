@@ -45,7 +45,9 @@ creating addictive and scalable gaming experiences.
 [
 ](https://apps.apple.com/us/app/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-kalamatic/id1476429715)
 
-  - ### Persian 2248
+  - ### زنجیره اعداد: ۲۲۴۸  
+(Persian 2248)
+
 D1 40%, D7 20%, 1.5h engagement/day
 
 [
