@@ -28,7 +28,10 @@ Crafting engaging games using Unity for iOS and Android platforms.
 Bringing your game concepts to life with our creative design expertise.
 
   - ### Server & Backend
-Implementing robust backend solutions and maintaining player data.
+Our Soil platform provides a comprehensive backend solution for your game
+development needs.
+
+[ Visit Soil ](soil.html)
 
   - ### Ad Campaigns
 Creating captivating game creatives and managing effective ad campaigns.
@@ -51,7 +54,7 @@ creating addictive and scalable gaming experiences.
 D1 40%, D7 20%, 1.5h engagement/day
 
 [
-](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-2248/id6569247863)
+](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)
 [ ](https://cafebazaar.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
@@ -128,4 +131,6 @@ Meeting](https://calendly.com/alisharpasand)
 Made with ❤️ by Flying Acorn
 
 Espoo, Finland
+
+(C) 2025 Flying Acorn. All rights reserved.
 
