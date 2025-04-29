@@ -51,7 +51,7 @@ creating addictive and scalable gaming experiences.
   - ### زنجیره اعداد: 2248  
 (Persian 2248)
 
-D1 40%, D7 20%, 1.5h engagement/day
+D1 59%, D7 26%, 1h engagement/day
 
 [
 ](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF-2248/id6569247863)
@@ -128,9 +128,7 @@ Meeting](https://calendly.com/alisharpasand)
 ](https://apps.apple.com/us/developer/flying-acorn/id1758967698) [
 ](https://play.google.com/store/apps/developer?id=Flying+Acorn)
 
-Made with ❤️ by Flying Acorn
+(C) 2025 Flying Acorn. All rights reserved.
 
 Espoo, Finland
-
-(C) 2025 Flying Acorn. All rights reserved.
 
