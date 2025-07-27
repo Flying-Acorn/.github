@@ -56,7 +56,8 @@ D1 59%, D7 26%, 1h engagement/day
 [
 ](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)
-[ ](https://cafebazaar.ir/app/com.FlyingAcorn.NumberChain)  
+[ ](https://cafebazaar.ir/app/com.FlyingAcorn.NumberChain) [
+](https://myket.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
 
   - ### Couples Yoga
