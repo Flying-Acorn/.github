@@ -31,7 +31,7 @@ Bringing your game concepts to life with our creative design expertise.
 Our Soil platform provides a comprehensive backend solution for your game
 development needs.
 
-[ Visit Soil ](soil.html)
+[ Visit Soil  ](https://soil.flyingacorn.studio)
 
   - ### Ad Campaigns
 Creating captivating game creatives and managing effective ad campaigns.
