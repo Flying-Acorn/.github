@@ -60,6 +60,15 @@ D1 59%, D7 26%, 1h engagement/day
 ](https://myket.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
 
+  - ### ۲توپیا  
+(2topia)
+
+New!
+
+[ ](https://apps.apple.com/us/app/id6748600347) [
+](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
+[ Privacy Policy ](./privacy/2topia.html)
+
   - ### Couples Yoga
 20M+ downloads, #1 on App Store and Google Play
 
