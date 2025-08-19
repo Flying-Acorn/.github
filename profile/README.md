@@ -65,8 +65,7 @@ D1 59%, D7 26%, 1h engagement/day
 
 New!
 
-[ ](https://apps.apple.com/us/app/id6748600347) [
-](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
+[ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
 [ Privacy Policy ](./privacy/2topia.html)
 
   - ### Couples Yoga
