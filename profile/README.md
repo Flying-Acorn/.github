@@ -36,19 +36,14 @@ development needs.
   - ### Ad Campaigns
 Creating captivating game creatives and managing effective ad campaigns.
 
-## Our Projects
+## Our Games
 
-With a track record of developing games that have amassed millions of
-downloads and thousands of daily active users, we've honed our skills in
-creating addictive and scalable gaming experiences.
+Games developed and published by Flying Acorn, showcasing our expertise in
+mobile game development.
 
-  - ### Kalamatic
-2M+ downloads, 65K+ daily active users
+### Our Games
 
-[
-](https://apps.apple.com/us/app/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-kalamatic/id1476429715)
-
-  - ### زنجیره اعداد: 2248  
+  - #### زنجیره اعداد: 2248  
 (Persian 2248)
 
 D1 59%, D7 26%, 1h engagement/day
@@ -60,28 +55,36 @@ D1 59%, D7 26%, 1h engagement/day
 ](https://myket.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
 
-  - ### ۲توپیا  
+  - #### ۲توپیا  
 (2topia)
 
-New!
+New! 50m engagement/day
 
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia) [
 ](https://cafebazaar.ir/app/com.FlyingAcorn.TwoTopia) [
 ](https://myket.ir/app/com.FlyingAcorn.TwoTopia)  
 [ Privacy Policy ](./privacy/2topia.html)
 
-  - ### Couples Yoga
+### Previous Projects and Collaborations
+
+  - #### Kalamatic
+2M+ downloads, 65K+ daily active users
+
+[
+](https://apps.apple.com/us/app/%DA%A9%D9%84%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-kalamatic/id1476429715)
+
+  - #### Couples Yoga
 20M+ downloads, #1 on App Store and Google Play
 
 [ ](https://apps.apple.com/us/app/couples-yoga/id1563288539) [
 ](https://play.google.com/store/apps/details?id=com.tippytap.yoga)
 
-  - ### Beauty Salon
+  - #### Beauty Salon
 $0.29 CPI, 22% D1 retention
 
 [ ](https://apps.apple.com/us/app/beauty-salon-3d/id1545813093)
 
-  - ### Doctor Tycoon
+  - #### Doctor Tycoon
 $0.19 CPI, 37% D1 retention
 
 [ ](https://apps.apple.com/us/app/doctor-tycoon/id1555050989)
@@ -97,8 +100,6 @@ large-scale published games.
 ### Publishers We've Worked With
 
   - #### Voodoo
-  - #### SuperSonic
-  - #### Moonee
   - #### Green Panda
   - #### Homa Games
   - #### Lion Studio
@@ -137,7 +138,7 @@ Meeting](https://calendly.com/alisharpasand)
 [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://github.com/Flying-Acorn/) [
 ](https://apps.apple.com/us/developer/flying-acorn/id1758967698) [
-](https://play.google.com/store/apps/developer?id=Flying+Acorn)
+](https://play.google.com/store/apps/dev?id=6006613193558423971)
 
 (C) 2025 Flying Acorn. All rights reserved.
 
