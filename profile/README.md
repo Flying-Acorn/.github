@@ -55,10 +55,10 @@ D1 59%, D7 26%, 1h engagement/day
 ](https://myket.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
 
-  - #### ۲توپیا  
-(2topia)
+  - #### ۲توپیا | 2topia  
+(Android)
 
-New! 50m engagement/day
+(New!) D1 45%, 50m engagement/day
 
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia) [
 ](https://cafebazaar.ir/app/com.FlyingAcorn.TwoTopia) [
@@ -128,12 +128,14 @@ Unity Developer & Game Designer
   - ### Mostafa Hassanpour
 Unity Developer
 
-## Contact Us
+## Connect with Us
 
-Ready to bring your game idea to life? We're excited to hear from you!
+We're open to hearing your ideas
 
-[Get in Touch](mailto:hello@flyingacorn.studio) [Schedule a
-Meeting](https://calendly.com/alisharpasand)
+Send Message
+
+Or email us directly at
+[hello@flyingacorn.studio](mailto:hello@flyingacorn.studio)
 
 [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://github.com/Flying-Acorn/) [
