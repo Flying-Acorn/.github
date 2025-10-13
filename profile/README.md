@@ -1,7 +1,7 @@
 This file generates automatically from https://flyingacorn.studio/index.html as part of a GitHub Action practice.
 # Flying Acorn
 
-Crafting Extraordinary Gaming Experiences
+Creating Fun and Innovative Games Together
 
 ☰ Menu
 
@@ -13,33 +13,40 @@ Crafting Extraordinary Gaming Experiences
 
 ## About Us
 
-We are a passionate group of game developers with over 5 years of experience
-in the gaming industry. Our portfolio boasts over 100 hypercasual prototypes
-and several casual games. Specializing in Unity engine development, we're
-always excited to take on new game projects and push the boundaries of
-interactive entertainment.
+Hey there! We're a team of passionate game developers with over 5 years of
+experience in the gaming world. We've built over 100 hypercasual prototypes
+and several casual games, and we specialize in Unity to bring your ideas to
+life. We're always thrilled to dive into new projects and explore the endless
+possibilities of interactive fun!
 
 ## Our Services
 
   - ### Game Development
-Crafting engaging games using Unity for iOS and Android platforms.
+We love building engaging games with Unity, tailored for iOS and Android.
+Let's turn your vision into a playable adventure!
 
   - ### Game Design
-Bringing your game concepts to life with our creative design expertise.
+Got a cool game idea? We'll help bring it to life with creative design that
+captivates players.
 
   - ### Server & Backend
-Our Soil platform provides a comprehensive backend solution for your game
-development needs.
+Our Soil platform offers a simple, all-in-one backend solution for your games.
+Check it out and see how it can support your next project.
 
 [ Visit Soil  ](https://soil.flyingacorn.studio)
 
   - ### Ad Campaigns
-Creating captivating game creatives and managing effective ad campaigns.
+We'll create eye-catching creatives and run effective ad campaigns to help
+your game reach more players.
 
-## Our Games
+  - ### Publishing
+Ready to launch? We'll handle publishing on major app stores and guide you
+through the process smoothly.
 
-Games developed and published by Flying Acorn, showcasing our expertise in
-mobile game development.
+## Games
+
+Check out the games we've developed and published—each one showcases our love
+for creating fun mobile experiences!
 
 ### Our Games
 
@@ -91,11 +98,10 @@ $0.19 CPI, 37% D1 retention
 
 ### Many More
 
-We have worked on over 100 Hyper-Casual prototypes and Casual games,
-encountering various challenges along the way. Our experience includes
-developing games that have garnered millions of downloads and maintained
-thousands of daily active users, contributing to our expertise in the realm of
-large-scale published games.
+We've tackled over 100 hypercasual prototypes and casual games, learning from
+every challenge along the way. Our experience includes hits with millions of
+downloads and thousands of daily players—let's bring that expertise to your
+project!
 
 ### Publishers We've Worked With
 
@@ -108,10 +114,10 @@ large-scale published games.
 
 ## Meet Our Team
 
-In the beginning, a startup was founded by a group of robotic enthusiasts keen
-on the gaming industry. At first, it was more of a casual venture until the
-creation of their groundbreaking game, 'Kalamatic.' Five years later,
-'Kalamatic' was sold to pave the way for a new chapter in their journey.
+It all started with a group of robotics fans who fell in love with gaming.
+What began as a fun side project turned into something special with our
+breakout game, 'Kalamatic.' Five years later, we sold it and embarked on this
+exciting new chapter. We're like flying acorns—free to grow wherever we want!
 
 We are flying acorns, free to choose any path, skilled at growing into
 towering trees. — Farshad Abdollahi
@@ -130,14 +136,11 @@ Unity Developer
 
 ## Connect with Us
 
-We're open to hearing your ideas
+Got an idea or need help? We'd love to hear from you!
 
-Send Message
-
-Or email us directly at
-[hello@flyingacorn.studio](mailto:hello@flyingacorn.studio)
-
-[ ](https://www.linkedin.com/company/flying-acorn) [
+What can we help with? Game Development Game Design Server & Backend Ad
+Campaigns Publishing Support for زنجیره اعداد: 2248 Support for 2topia Other
+Send Message [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://github.com/Flying-Acorn/) [
 ](https://apps.apple.com/us/developer/flying-acorn/id1758967698) [
 ](https://play.google.com/store/apps/dev?id=6006613193558423971)
