@@ -29,15 +29,15 @@ Let's turn your vision into a playable adventure!
 Got a cool game idea? We'll help bring it to life with creative design that
 captivates players.
 
-  - ### Server & Backend
+  - ### Backend Solution (Soil)
 Our Soil platform offers a simple, all-in-one backend solution for your games.
 Check it out and see how it can support your next project.
 
 [ Visit Soil  ](https://soil.flyingacorn.studio)
 
   - ### Ad Campaigns
-We'll create eye-catching creatives and run effective ad campaigns to help
-your game reach more players.
+We'll create eye-catching creatives, including playable ads, and run effective
+ad campaigns to help your game reach more players.
 
   - ### Publishing
 Ready to launch? We'll handle publishing on major app stores and guide you
@@ -125,20 +125,28 @@ towering trees. — Farshad Abdollahi
   - ### Amir Hakimnejad
 Unity & Backend Developer
 
+[ ](https://www.linkedin.com/in/amirhakimnejad/)
+
   - ### Ali Sharpasand
 Founder and CEO
+
+[ ](https://www.linkedin.com/in/alisharpasand/)
 
   - ### Farshad Abdollahi
 Unity Developer & Game Designer
 
+[ ](https://www.linkedin.com/in/farshad-abdollahi-4554031a4/)
+
   - ### Mostafa Hassanpour
 Unity Developer
+
+[ ](https://www.linkedin.com/in/mostafa-hassanpour-236467181/)
 
 ## Connect with Us
 
 Got an idea or need help? We'd love to hear from you!
 
-What can we help with? Game Development Game Design Server & Backend Ad
+What can we help with? Game Development Game Design Backend Solution (Soil) Ad
 Campaigns Publishing Support for زنجیره اعداد: 2248 Support for 2topia Other
 
 Send Message [ ](https://www.linkedin.com/company/flying-acorn) [
