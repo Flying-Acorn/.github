@@ -62,8 +62,8 @@ D1 59%, D7 26%, 1h engagement/day
 ](https://myket.ir/app/com.FlyingAcorn.NumberChain)  
 [ Privacy Policy ](./privacy/2248.html)
 
-  - #### ۲توپیا | 2topia  
-(Android)
+  - #### دوتوپیا  
+(Persian X2Blocks)
 
 (New!) D1 45%, 50m engagement/day
 
@@ -147,7 +147,7 @@ Unity Developer
 Got an idea or need help? We'd love to hear from you!
 
 What can we help with? Game Development Game Design Backend Solution (Soil) Ad
-Campaigns Publishing Support for زنجیره اعداد: 2248 Support for 2topia Other
+Campaigns Publishing Support for زنجیره اعداد: 2248 Support for دوتوپیا Other
 
 Send Message [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://github.com/Flying-Acorn/) [
