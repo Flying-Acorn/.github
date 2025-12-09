@@ -65,8 +65,18 @@ D1 59%, D7 26%, 1h engagement/day
 
 (New!) D1 45%, 50m engagement/day
 
+[
+](https://apps.apple.com/us/app/%D8%AF%D9%88%D8%AA%D9%88%D9%BE%DB%8C%D8%A7/id6748600347)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
 [ Privacy Policy ](./privacy/2topia.html)
+
+  - #### واژه باف  
+(Persian Wordle)
+
+(New!)
+
+[ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.Wordle)  
+[ Privacy Policy ](./privacy/Wordloom.html)
 
 ### Previous Projects and Collaborations
 
