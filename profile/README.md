@@ -75,6 +75,8 @@ D1 59%, D7 26%, 1h engagement/day
 
 (New!)
 
+[
+](https://apps.apple.com/us/app/%D9%88%D8%A7%DA%98%D9%87-%D8%A8%D8%A7%D9%81/id6749933008)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.Wordle)  
 [ Privacy Policy ](./privacy/Wordloom.html)
 
