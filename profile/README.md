@@ -162,7 +162,7 @@ Send Message [ ](https://www.linkedin.com/company/flying-acorn) [
 ](https://apps.apple.com/us/developer/flying-acorn/id1758967698) [
 ](https://play.google.com/store/apps/dev?id=6006613193558423971)
 
-(C) 2025 Flying Acorn. All rights reserved.
+(C) 2026 Flying Acorn. All rights reserved.
 
 Espoo, Finland
 
