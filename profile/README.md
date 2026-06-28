@@ -53,8 +53,6 @@ for creating fun mobile experiences!
   - #### زنجیره اعداد: 2248  
 (Persian 2248)
 
-D1 59%, D7 26%, 1h engagement/day
-
 [
 ](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)  
@@ -63,8 +61,6 @@ D1 59%, D7 26%, 1h engagement/day
   - #### دوتوپیا  
 (Persian X2Blocks)
 
-(New!) D1 45%, 50m engagement/day
-
 [
 ](https://apps.apple.com/us/app/%D8%AF%D9%88%D8%AA%D9%88%D9%BE%DB%8C%D8%A7/id6748600347)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
@@ -72,8 +68,6 @@ D1 59%, D7 26%, 1h engagement/day
 
   - #### واژه باف  
 (Persian Wordle)
-
-(New!)
 
 [
 ](https://apps.apple.com/us/app/%D9%88%D8%A7%DA%98%D9%87-%D8%A8%D8%A7%D9%81/id6749933008)
@@ -95,13 +89,9 @@ D1 59%, D7 26%, 1h engagement/day
 ](https://play.google.com/store/apps/details?id=com.tippytap.yoga)
 
   - #### Beauty Salon
-$0.29 CPI, 22% D1 retention
-
 [ ](https://apps.apple.com/us/app/beauty-salon-3d/id1545813093)
 
   - #### Doctor Tycoon
-$0.19 CPI, 37% D1 retention
-
 [ ](https://apps.apple.com/us/app/doctor-tycoon/id1555050989)
 
 ### Many More
