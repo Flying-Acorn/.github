@@ -68,7 +68,7 @@ Shoot and merge number blocks to climb the leaderboard.
 [
 ](https://apps.apple.com/us/app/%D8%AF%D9%88%D8%AA%D9%88%D9%BE%DB%8C%D8%A7/id6748600347)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
-[ About the game ](./TwoTopia/)
+[ About the game ](./twotopia/)
 
   - #### واژه باف  
 (Persian Wordle)
