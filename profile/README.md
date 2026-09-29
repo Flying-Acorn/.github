@@ -58,7 +58,7 @@ Merge number blocks to reach 2248 and beyond.
 [
 ](https://apps.apple.com/us/app/%D8%B2%D9%86%D8%AC%DB%8C%D8%B1%D9%87-%D8%A7%D8%B9%D8%A7%D8%AF-2248/id6569247863)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.NumberChain)  
-[ Privacy Policy ](./privacy/2248.html)
+[ About the game ](./2248/)
 
   - #### دوتوپیا  
 (Persian X2Blocks)
@@ -68,7 +68,7 @@ Shoot and merge number blocks to climb the leaderboard.
 [
 ](https://apps.apple.com/us/app/%D8%AF%D9%88%D8%AA%D9%88%D9%BE%DB%8C%D8%A7/id6748600347)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.TwoTopia)  
-[ Privacy Policy ](./privacy/2topia.html)
+[ About the game ](./TwoTopia/)
 
   - #### واژه باف  
 (Persian Wordle)
@@ -78,7 +78,7 @@ A daily Persian word puzzle — guess the hidden word.
 [
 ](https://apps.apple.com/us/app/%D9%88%D8%A7%DA%98%D9%87-%D8%A8%D8%A7%D9%81/id6749933008)
 [ ](https://play.google.com/store/apps/details?id=com.FlyingAcorn.Wordle)  
-[ Privacy Policy ](./privacy/Wordloom.html)
+[ About the game ](./wordloom/)
 
 ### Previous Projects and Collaborations
 
